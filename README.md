@@ -103,11 +103,6 @@ npm start
 - **Media:** Uploaded videos and thumbnails are stored in `backend/media/`.
 - **Authentication:** Token-based authentication (DRF).
 
-## Deployment
-
-- **Docker:** Add Dockerfiles for backend and frontend for containerized deployment.
-- **Platforms:** Deploy to Render, Railway, Fly.io, etc.
-
 ## Credits
 
 - [Django REST Framework](https://www.django-rest-framework.org/)
